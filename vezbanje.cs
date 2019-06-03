@@ -56,7 +56,7 @@ namespace Program
 
 		static void upisiMatricu(out int[,] matrica){
 			Console.WriteLine("Dimenzije matrice su: ");
-			string[] dim = Console.ReadLine().Split(',');
+			string[] dim = Console.ReadLine().Split();
 
 			int x = int.Parse(dim[0]);
 			int y = int.Parse(dim[1]);
@@ -64,10 +64,12 @@ namespace Program
 			matrica = new int[x,y];
 
 			for(int i = 0; i < x; i++){
+				string[] elemnti = Console.ReadLine().Split();
 				for(int j = 0; j < y; j++){
-					matrica[i,j] = int.Parse(Console.ReadLine());
+					matrica[i,j] = int.Parse(elemnti[j]);
 				}
 			}
+			Console.WriteLine();
 		}
 
 		static void randomMatrica(out int[,] matrica){
