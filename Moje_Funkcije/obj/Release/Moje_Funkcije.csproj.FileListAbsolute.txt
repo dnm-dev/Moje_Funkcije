@@ -1,0 +1,4 @@
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\bin\Release\Moje_Funkcije.dll
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\bin\Release\Moje_Funkcije.pdb
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\obj\Release\Moje_Funkcije.dll
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\obj\Release\Moje_Funkcije.pdb

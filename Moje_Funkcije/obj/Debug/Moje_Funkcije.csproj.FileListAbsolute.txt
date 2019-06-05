@@ -1,0 +1,4 @@
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\bin\Debug\Moje_Funkcije.dll
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\bin\Debug\Moje_Funkcije.pdb
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\obj\Debug\Moje_Funkcije.dll
+C:\Users\Milan\Desktop\vezbanje\Moje_Funkcije\obj\Debug\Moje_Funkcije.pdb
